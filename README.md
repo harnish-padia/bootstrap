@@ -1,2 +1,2 @@
 # bootstrap
-# Test repository
+Test repository
